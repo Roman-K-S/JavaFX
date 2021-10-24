@@ -10,6 +10,6 @@
 <VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
       fx:controller="com.example.javafx.HelloController">
     <TextArea/>
-    <TextField/>
+    <TextField text="Введите текст"/>
     <Button text="Отправить" onAction="#onHelloButtonClick"/>
 </VBox>
